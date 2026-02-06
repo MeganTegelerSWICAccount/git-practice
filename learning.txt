@@ -1,0 +1,5 @@
+A few sentences about what I learned.
+I learned how to configure your Git to set up your name and email.
+I learned again how to set up new folders in to the VS.
+I learned that touch doesn't work for me and I have to use New-Item to create a file.
+I learned that Git can help you have a clear history of the work.
