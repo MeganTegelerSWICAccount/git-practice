@@ -1,0 +1,7 @@
+git diff is a useful command to know. Its helpful to know where the output you created is at before the changes and afterwards.
+The git restore command is useful to know as I will 100% make a mistake in this class.
+git push is a useful command to know. It confirms to you that you completely commited to the GitHub and that your changes went into GitHub.
+I know that this might not sound useful, but its good to know what ls is and does for you as a Git fundamental.
+
+pwd is a simple command that is useful to know. If you can't verify that you are in the right place, then you might place a txt in the wrong folder.
+stuff
