@@ -8,3 +8,5 @@ I learned that Git can help you have a clear history of the work.
 I am learning Git fundamentals.
 Git tracks every change I make.
 I can commit my work to save progress.
+
+I just pushed my first repo to GitHub!
