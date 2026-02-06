@@ -1,0 +1,4 @@
+I learned about how to fix mistakes if I make a error. 
+I learned how to commit to a change that I made and how to look at that change history.
+I learned how to look at the commit history of what I did. 
+I learned how to look into the history of my commits and local to the GitHub.
